@@ -18,10 +18,10 @@
             <a class="nav-link js-scroll-trigger" aria-current="page" href="#">Beranda</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#">Tentang Kami</a>
+            <a class="nav-link js-scroll-trigger" href="#">kelas</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#">Lokasi Layanan</a>
+            <a class="nav-link js-scroll-trigger" href="#">Tentang Kami</a>
           </li>
         </ul>
         <ul class="navbar-nav ms-auto">

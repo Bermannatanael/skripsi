@@ -70,67 +70,7 @@
                             <option value="sma/smk">SMA/SMK</option>
                             <option value="Kuliah">Kuliah</option>
                         </select>
-                </div>
-                <div class="form-group mb-3">
-                    <label class="label" for="last_education"> Last Education </label>
-                        <select class="form-select  @error('last_education') is-invalid @enderror">
-                            <option value="Pilih">Pilih</option>
-                            <option value="pK / paud">TK / Paud</option>
-                            <option value="SD">SD</option>
-                            <option value="sma/smk">SMA/SMK</option>
-                            <option value="Kuliah">Kuliah</option>
-                        </select>
-                </div>
-                <div class="form-group mb-3">
-                    <label class="label" for="last_education"> Last Education </label>
-                        <select class="form-select  @error('last_education') is-invalid @enderror">
-                            <option value="Pilih">Pilih</option>
-                            <option value="pK / paud">TK / Paud</option>
-                            <option value="SD">SD</option>
-                            <option value="sma/smk">SMA/SMK</option>
-                            <option value="Kuliah">Kuliah</option>
-                        </select>
-                </div>
-                <div class="form-group mb-3">
-                    <label class="label" for="last_education"> Last Education </label>
-                        <select class="form-select  @error('last_education') is-invalid @enderror">
-                            <option value="Pilih">Pilih</option>
-                            <option value="pK / paud">TK / Paud</option>
-                            <option value="SD">SD</option>
-                            <option value="sma/smk">SMA/SMK</option>
-                            <option value="Kuliah">Kuliah</option>
-                        </select>
-                </div>
-                <div class="form-group mb-3">
-                    <label class="label" for="last_education"> Last Education </label>
-                        <select class="form-select  @error('last_education') is-invalid @enderror">
-                            <option value="Pilih">Pilih</option>
-                            <option value="pK / paud">TK / Paud</option>
-                            <option value="SD">SD</option>
-                            <option value="sma/smk">SMA/SMK</option>
-                            <option value="Kuliah">Kuliah</option>
-                        </select>
-                </div>
-                <div class="form-group mb-3">
-                    <label class="label" for="last_education"> Last Education </label>
-                        <select class="form-select  @error('last_education') is-invalid @enderror">
-                            <option value="Pilih">Pilih</option>
-                            <option value="pK / paud">TK / Paud</option>
-                            <option value="SD">SD</option>
-                            <option value="sma/smk">SMA/SMK</option>
-                            <option value="Kuliah">Kuliah</option>
-                        </select>
-                </div>
-                <div class="form-group mb-3">
-                    <label class="label" for="last_education"> Last Education </label>
-                        <select class="form-select  @error('last_education') is-invalid @enderror">
-                            <option value="Pilih">Pilih</option>
-                            <option value="pK / paud">TK / Paud</option>
-                            <option value="SD">SD</option>
-                            <option value="sma/smk">SMA/SMK</option>
-                            <option value="Kuliah">Kuliah</option>
-                        </select>
-                </div>
+
                 <div class="form-group mb-3">
                     <label class="label" for="address">address</label>
                     <input type="text" class="form-control  @error('address') is-invalid @enderror" placeholder="address" required>
