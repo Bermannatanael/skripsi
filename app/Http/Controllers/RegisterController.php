@@ -10,4 +10,13 @@ class RegisterController extends Controller
     {
         return view('Register.index');
     }
+
+    public function store(Request $request)
+    {
+        $request->validate([
+        'name'=>'required|max:225',
+
+        ]);
+    }
 }
+
